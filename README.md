@@ -2,9 +2,10 @@
 
 Project Overview
 
+This project leverages Python and various financial libraries to analyze the performance, volatility, and correlations of the JNUG stock (a leveraged ETF) in comparison to the S&P 500 (SPY) and Gold (GLD). The analysis includes the calculation of moving averages, historical stock price visualizations, and statistical tests to assess the volatility and relationships between these assets.
 
-This project analyzes stock data using Python and several financial libraries to examine the performance, volatility, and correlations of the JNUG stock (a leveraged ETF) compared to the S&P 500 (SPY) and Gold (GLD). Key analysis includes calculating moving averages, plotting historical stock prices, and performing statistical tests to understand the volatility and relationships between these stocks.
+    Files
 
-Files:
-    -'JNUG_analysis.ipynb': This Jupyter Notebook contains the code for my analysis.
-    - 'PLOT_Images': This folder contains the images for all the plots in my analysis.
+    JNUG_analysis.ipynb: A Jupyter Notebook containing the full code for data analysis.
+
+    PLOT_Images/: A directory containing PNG files for all visualizations generated during the analysis.
