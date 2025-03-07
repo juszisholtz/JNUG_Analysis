@@ -1,4 +1,4 @@
-# price_action1
+# JNUG_Analysis
 
 Project Overview
 
